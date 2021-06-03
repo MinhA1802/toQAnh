@@ -1,10 +1,10 @@
   
 const CONFIG = {
     introTitle: 'QAnhhhhh!',
-    introDesc: `Trái đất vốn lạ thường. 
-    Mà sao Anh cứ đi nhầm đường.
-    Lạc vào tim em lẻ loi.
-    Đằng sau chữ yêu đây là thương`,
+    introDesc: `Trái đất vốn lạ thường 
+    mà sao Anh cứ đi nhầm đường
+    lạc vào tim em lẻ loi.
+    đằng sau chữ yêu đây là thương`,
     btnIntro: 'hehe',
     title: 'Phải chăng Anh đã yêu ngay từ cái nhìn đầu tiên.',
     desc: 'Phải chăng Anh đã say ngay từ lúc thấy nụ cười ấy ',
